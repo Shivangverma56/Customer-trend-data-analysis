@@ -25,7 +25,7 @@ An end-to-end data analytics project using **SQL, Python, and Power BI** to anal
 - Highlights revenue trends and customer preferences.
 
 📷 Dashboard Preview
-The Power BI dashboard provides a visual overview of customer behavior, sales, revenue, and subscription status.
+![The customer-trend-data-analysis project shows the behavior, sales, revenue, and subscription status.](customer-trend-data-analysis.png)
 
 🎯 Project Objectives
 - Develop practical data analytics skills.
